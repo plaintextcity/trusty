@@ -5,8 +5,10 @@ body {
 }
 
 svg {
-  width: 2400px;
-  height: 2400px;
+//  width: 2400px;
+  width: 1920px;
+//  height: 2400px;
+  height: 1200px;
 }
 
 #chart, #header {
